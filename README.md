@@ -1,8 +1,29 @@
-# React + Vite
+# 📝 Bookshelf App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App ini adalah project tugas akhir kelas Belajar Membuat Aplikasi Web dengan React, Dicoding Academy.
 
-Currently, two official plugins are available:
+## Kriteria Submission
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✨ Fitur Aplikasi
+
+- ✅ Daftar Catatan
+- ✅ Fitur menambahkan catatan
+- ✅ Fitur menghapus catatan
+- ✅ Fitur mencari catatan
+- ✅ Fitur mengarsip catatan
+
+### ⚙️ Requirement Aplikasi
+
+- ✅ Menampilkan initial data yang disediakan
+- ✅ Menyimpan data pada memori
+- ✅ Penulisan kode yang konsisten
+
+## 🔗 Referensi
+https://dicoding-react-note-app.netlify.app
+
+## 🏃💨 Durasi Pengerjaan
+**10 Jam, 54 Menit** (16 - 18 Juli 2024)
+
+- 16 Juli: 5 Menit Pengerjaan
+- 17 Juli: 5.9 Jam Pengerjaan
+- 18 Juli: 5.40 Jam Pengerjaan

@@ -25,8 +25,11 @@ class NavigationBar extends React.Component {
                     </svg>
                     <h1>Notes</h1>
                 </span>
-                <input type="search" value={this.state.search} onChange={this.handleSearch} placeholder="Cari..." />
-                <button type="button" onClick={this.props.onArchiveButtonClick}>Buka Arsip Catatan</button>
+                <span>
+                    <input type="search" value={this.state.search} onChange={this.handleSearch} placeholder="Cari..." />
+                    <button type="button" onClick={this.props.onAddButtonClick} className='non-mobile'>Tambah Catatan</button>
+                    <button type="button" onClick={this.props.onArchiveButtonClick} className='non-mobile'>Buka Arsip Catatan</button>
+                </span>
             </header>
         )
     }
