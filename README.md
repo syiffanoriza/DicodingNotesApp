@@ -1,4 +1,4 @@
-# 📝 Bookshelf App
+# 📝 Notes App
 
 App ini adalah project tugas akhir kelas Belajar Membuat Aplikasi Web dengan React, Dicoding Academy.
 
